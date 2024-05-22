@@ -7,6 +7,14 @@ This is a web based application developed for health appointment's in india
 
 **Project Link** - https://lively-sea-02c95ac00.5.azurestaticapps.net/
 
+**project video link - 
+
+
+## AZURE SERVICES USED: 
+1.Azure web apps
+2.Azure health bot
+3.Visual studio code
+
 
 ## Features and Functionalities 😃
 
